@@ -1,4 +1,4 @@
-#eclipse
+# eclipse
 bin
 *.launch
 .settings
@@ -21,5 +21,5 @@ build
 eclipse
 run
 world
-eula.txt
 logs
+eula.txt
